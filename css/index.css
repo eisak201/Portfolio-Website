@@ -270,8 +270,8 @@ span.m-left {
   height: 100%;
 }
 .profile-image img {
-  width: 450px;
-  margin-top: 50px;
+  width: 550px;
+  margin-top: -30px;
 }
 .about {
   height: 100vh;
@@ -307,7 +307,7 @@ span.m-left {
   width: 300px;
   position: relative;
   top: -275px;
-  margin-left: 500px;
+  margin-left: 300px;
   transform: translateX(calc(100% + 100px));
 }
 .skills {
@@ -414,7 +414,7 @@ form textarea {
   margin: 20px 0;
   outline: none;
   font-size: 1.2rem;
-  color: #fff;
+  color: #707070;
   position: relative;
   left: 50%;
   right: 50%;
